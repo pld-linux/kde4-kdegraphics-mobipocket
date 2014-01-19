@@ -5,12 +5,12 @@
 Summary:	K Desktop Environment - Mobipocket support for Okular
 Summary(pl.UTF-8):	K Desktop Environment - Wsparcie formatu mobipocket dla Okulara
 Name:		kde4-kdegraphics-mobipocket
-Version:	4.12.0
+Version:	4.12.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	05b6ced8e24db4c1812d85bddd01eeaa
+# Source0-md5:	2d9758e0ece0bbe580a8a6a3674f5aa3
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel >= %{version}
 BuildRequires:	kde4-okular-devel >= %{version}
