@@ -9,7 +9,7 @@ Version:	4.14.0
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
-Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
+Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
 # Source0-md5:	a5be5fc49042afe4def75ea27177b597
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel >= %{version}
